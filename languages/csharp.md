@@ -4,3 +4,4 @@ When writing C# / dotnet / .NET code follow the following principles without dev
 * use filescoped namespaces
 * make use of early returns when possible instead of nesting
 * never do single line if statments. Always surrond if blocks with braces
+* prefer nunit over xunit
