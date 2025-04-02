@@ -8,3 +8,4 @@ When writing code, follow these principles without deviating:
 * Prefer tabs instead of spaces for leading whitespace
 * Prefer creating pure functions and aim for functional design
 * Prefer dependency injection when possible
+* When fixing or writing tests you are not allowed to simply hardcode a response, you did it incorrectly if the code under test wasn't tested.
