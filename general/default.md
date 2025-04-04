@@ -11,3 +11,4 @@ When writing code, follow these principles without deviating:
 * When fixing or writing tests you are not allowed to simply hardcode a response, you did it incorrectly if the code under test wasn't tested.
 * You are not allowed to repeat yourself when making functionality. You should refactor code to share common components if you run into issues.
 * Actively consider if there is dead code that should be removed when making changes.
+* Only fill in test stubs / todos if you are explicilty asked.

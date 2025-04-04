@@ -1,6 +1,6 @@
 When writing C# / dotnet / .NET code follow the following principles without deviating:
 * Try to follow general resharper styling
-* use var whenever possible when defining local variables
+* use var whenever possible
 * use filescoped namespaces
 * make use of early returns when possible instead of nesting
 * never do single line if statements. Always surround if blocks with braces
